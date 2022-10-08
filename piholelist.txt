@@ -67,3 +67,6 @@ www.googlesyndication.com
 www.nov1215in1215ky.cz
 www.richmedia.cz
 zdstatic.speedtest.net
+a.centrum.cz
+i.seznam.cz
+
